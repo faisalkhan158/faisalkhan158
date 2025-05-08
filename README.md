@@ -17,7 +17,7 @@ ArgoCD • GitOps • Kubernetes Operators • Advanced Monitoring & Security in
 - Real-world Cloud Projects
 
 📫 **Reach Out**  
-[📧 Email](mailto:er.faisalkhanofficial@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/mohammed-faisal-khan-7a33392a4/) | [🌐 Portfolio](#)
+[📧 Email](mailto:er.faisalkhanofficial@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/mohammed-faisal-khan-7a33392a4/) | [🌐 Portfolio](https://faisalportfolio1.netlify.app/)
 
 ---
 
@@ -38,7 +38,9 @@ ArgoCD • GitOps • Kubernetes Operators • Advanced Monitoring & Security in
 ## 📌 Pinned Projects
 
 - 🔧 [Self-Healing Infrastructure using Prometheus, Alertmanager & Ansible](https://github.com/faisalkhan158/self-healing-infra-project-1-2)  
-- ⚙️ [GitOps Workflow with ArgoCD & Kubernetes](https://github.com/faisalkhan158/self-healing-infra-project-1-2)  
+- ⚙️ [GitOps Workflow with ArgoCD & Kubernetes](https://github.com/faisalkhan158/self-healing-infra-project-1-2)
+- 🧱 [Multi-Stage E-Commerce Platform with CI/CD (DevOps)](https://github.com/faisalkhan158/E-commerce-platform-cicd-devops)  
+- 🛡️ [Secure Multi-Tier Application with DevSecOps](https://github.com/faisalkhan158/Multi-tier-application-devsecops)  
 - 🌐 [CI/CD React App Deployment using AWS CodePipeline](https://github.com/faisalkhan158/React-application-cicd)  
 - ☁️ [Java Web App Deployment on AWS with VPC, ELB, AutoScaling](https://github.com/faisalkhan158/Java-web-application)
 
